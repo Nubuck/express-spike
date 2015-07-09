@@ -1,0 +1,26 @@
+{
+  "name": "express-spike",
+  "version": "1.0.0",
+  "description": "test express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nubuck/express-spike.git"
+  },
+  "keywords": [
+    "test",
+    "nothing-to-see-here"
+  ],
+  "author": "@nubuck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nubuck/express-spike/issues"
+  },
+  "homepage": "https://github.com/nubuck/express-spike#readme",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
